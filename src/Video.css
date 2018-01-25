@@ -1,0 +1,32 @@
+.user_img{
+    width: 70%;
+}
+.uploader_img{
+    width: 70%;
+}
+img {
+    border-radius: 50%;
+}
+
+.video_frame{
+    margin: 2%
+}
+
+.box{
+    position: absolute;
+    z-index: 999;
+    margin: 2%;
+    background-color:green;
+}
+
+.cards{
+    padding:2%;
+    margin: 2%;
+}
+
+.video_comment{
+    margin-bottom: 3%;
+}
+.video_comment a{
+    color: gray;
+}

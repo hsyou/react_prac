@@ -1,0 +1,26 @@
+{
+  "name": "thatu",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.3",
+    "react": "^16.2.0",
+    "react-addons-css-transition-group": "^15.6.2",
+    "react-addons-transition-group": "^15.6.2",
+    "react-dom": "^16.2.0",
+    "react-draggable": "^3.0.5",
+    "react-router": "^4.2.0",
+    "react-scripts": "1.1.0",
+    "reactstrap": "^5.0.0-alpha.4"
+  },
+  "scripts": {
+    "start": "set PORT=3006 && react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "devtools": "react-devtools"
+  },
+  "devDependencies": {
+    "react-devtools": "^3.0.0"
+  }
+}
